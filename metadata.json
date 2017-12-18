@@ -1,0 +1,10 @@
+{
+  "developer": "OpenGestureControl",
+  "license": "MIT",
+  "supported_executables": {
+      "win32": ["spotify.exe"]
+  },
+  "supported_classnames": {
+      "linux": ["Spotify"]
+  }
+}
